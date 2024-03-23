@@ -9,5 +9,5 @@ six==1.11.0
 uritemplate==3.0.0
 yamjam==0.1.7
 argparse==1.4.0
-sqlite3==2.6.0
+sqlite-database
 
